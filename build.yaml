@@ -21,3 +21,5 @@
 include:
   - board: sparkfun_pro_micro_rp2040
     shield: romac_plus
+  - board: sparkfun_pro_micro_rp2040
+    shield: tester_pro_micro
